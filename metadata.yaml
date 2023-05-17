@@ -1,0 +1,49 @@
+_repo: Prayer-and-praying-men_70657
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Hodge, Homer W. (Homer Werle)
+    birthdate: 1859
+    gutenberg_agent_id: '55847'
+    url: http://www.gutenberg.org/2009/agents/55847
+creator:
+  author:
+    agent_name: Bounds, Edward M. (Edward McKendree)
+    aliases:
+    - Bounds, E. M. (Edward McKendree)
+    - Bounds, Edward McKendree
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '52476'
+    url: http://www.gutenberg.org/2009/agents/52476
+    wikipedia: https://en.wikipedia.org/wiki/Edward_McKendree_Bounds
+description: ''
+gutenberg_issued: '2023-04-28'
+identifiers:
+  gutenberg: '70657'
+language: en
+pgterms:marc904: https://archive.org/details/prayerandprayin00boungoog/page/n6
+pgterms:marc905: 20190804094905bounds
+pgterms:marc906: '1921'
+pgterms:marc907: gb
+production_note: Brian Wilson, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHodder and Stoughton Limited, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prayer -- Christianity'
+- !lcsh 'Bible -- Prayers'
+- !lcc 'BS'
+- !lcc 'BV'
+- GITenberg
+tableOfContents: Praying saints of the Old Testament -- Abraham, the man of prayer
+  -- Moses, the mighty intercessor -- Elijah, the praying prophet -- Hezekiah, the
+  praying king -- Ezra, the praying reformer -- Nehemiah, the praying builder -- Samuel,
+  the child of prayer -- Daniel, the praying captive -- Faith of sinners in prayer
+  -- Paul, the teacher of prayer -- Paul and his praying -- Paul and his requests
+  for prayer.
+title: Prayer and praying men
+url: http://www.gutenberg.org/ebooks/70657
